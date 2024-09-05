@@ -3,7 +3,7 @@ body {
     height: 100%;
     margin: 0;
     display: flex;
-    justify-content: center; /* Centers horizontally */
+    justify-content: center; 
     align-items: center; 
 }
 
@@ -39,4 +39,6 @@ button {
 
 #message-el {
     font-style: italic;
+    color: black;
+    font-weight: 600;
 }
